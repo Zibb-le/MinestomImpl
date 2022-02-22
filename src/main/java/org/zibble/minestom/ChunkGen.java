@@ -1,4 +1,4 @@
-package com.pepedevs.minestom;
+package org.zibble.minestom;
 
 import net.minestom.server.instance.Chunk;
 import net.minestom.server.instance.ChunkGenerator;
@@ -23,11 +23,6 @@ public class ChunkGen implements ChunkGenerator {
                 }
             }
         }
-    }
-
-    @Override
-    public void fillBiomes(@NotNull Biome[] biomes, int blockX, int blockZ) {
-        Arrays.fill(biomes, Biome.PLAINS);
     }
 
     @Override

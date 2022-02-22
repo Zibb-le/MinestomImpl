@@ -1,6 +1,6 @@
-package com.pepedevs.minestom;
+package org.zibble.minestom;
 
-import com.pepedevs.minestom.logger.Logger;
+import org.zibble.minestom.logger.Logger;
 import net.minestom.server.MinecraftServer;
 import net.minestom.server.coordinate.Pos;
 import net.minestom.server.entity.Player;

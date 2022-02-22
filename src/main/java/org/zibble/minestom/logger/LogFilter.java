@@ -1,4 +1,4 @@
-package com.pepedevs.minestom.logger;
+package org.zibble.minestom.logger;
 
 import net.kyori.adventure.text.Component;
 
